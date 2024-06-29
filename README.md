@@ -5,7 +5,7 @@ This script check you current followers on instagram saves them into a .txt file
 <!-- GETTING STARTED -->
 ## Getting Started
 
-<a href="#getting-started">Getting Started</a>
+<a>Getting Started</a>
 
 Make an instagram account and remember the username and the password
 
