@@ -5,7 +5,7 @@ from instaloader import Instaloader, Profile, LoginRequiredException, BadCredent
 print("=" * 50)
 print("IGChecker".center(50))
 print("By @serenityservice".center(50))
-print("https://github.com/anonymous777bob/IGChecker".center(50))
+print("https://github.com/serenityplus/IGChecker".center(50))
 print("=" * 50)
 
 def fetch_instagram_data(loader, username):
